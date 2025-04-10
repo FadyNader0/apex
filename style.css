@@ -925,7 +925,7 @@ body{
     background-color: #fff;
   }
   
-  .testimonial-container {
+  .testimonial  .container{
     max-width: 1200px;
     margin: auto;
     display: flex;
