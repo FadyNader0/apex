@@ -643,6 +643,7 @@ body{
     padding: 0px 10px;
     position: relative;
     margin-bottom: 30px;
+    width: 100%;
 }
 .construction-solutions .header .text{
     border-left: 5px solid #fda12b;
@@ -683,7 +684,7 @@ body{
 }
 
 .construction-card .text::before {
-    content: ""; /* REQUIRED to display pseudo-element */
+    content: ""; 
     position: absolute;
     top: -100%;
     left: 0;
